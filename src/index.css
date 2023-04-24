@@ -1,0 +1,12 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Plus+Jakarta+Sans:wght@500&family=Poppins:wght@500&family=Quicksand:wght@300;400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components {
+    .menu-link {
+        @apply
+    }
+} */
